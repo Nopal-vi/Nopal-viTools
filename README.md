@@ -4,11 +4,11 @@
 
 A primera vista veras algo distinto, como si las cosas hubieran cambiado, no es el mismo del vídeo? en realidad aun lo es. Nopal-vi Organization ha hecho que este proyecto siga evolucionando aun mas y de hecho hay nuevas mejoras:
 
-Se han corregido errores
-Se han reemplazado el lenguaje de programación
-Se han añadido otros contenedores a parte de .MP4
-Se ha añadido JSON (Versión Offline no lo tiene)
-Se ha convertido en ejecutable .exe
+- Se han corregido errores
+- Se han reemplazado el lenguaje de programación
+- Se han añadido otros contenedores a parte de .MP4
+- Se ha añadido JSON (Versión Offline no lo tiene)
+- Se ha convertido en ejecutable .exe
 Hay una versión Online por lo que puedes disfrutar la conversión de tus vídeos y ademas te avisara cuando haya una nueva actualización de Nopal-viTools, que esperas? ademas tiene su versión Offline por lo que quita ese beneficio.
 
 Espero que puedas disfrutar aun mas Nopal-viTools una herramienta  para  Tuna-viDS  que te permite convertir video en formato < MP4 Y OTROS CONTENEDORES > a < AVI > codificado en Xvid y audio codificado en MP3 al instante.
