@@ -18,15 +18,14 @@ Con [FFmpeg](https://ffmpeg.org/) incluido nos transcodifica el video de un form
 
 Mas informacion en [Tuna-viDS.](https://www.chishm.com/tuna-vids/index.html)
 
-Conversion de videos
+¿Como usar Nopal-viTools?
 ======
 
-* Tener FFmpeg en el ordenador 
-* Crear una carpeta añadiendo FFmpeg y Nopal-viTools este en la misma
-* Añade el video que sera codificado
-* Ejecutar Tuna-viTools como administrador
-* Selecciona la resolucion de pantalla para el video
-* Colocar el nombre del archivo que sera codificado
+- Debe tener FFmpeg y Nopal-viTools en la misma carpeta
+- Se añade el video que sera transcodificado a otro formato (mp4, avi, mov, wmv)
+- Selecciona la resolucion que vas a colocar al video (256x192, 256x144)
+- Selecciona el formato de entrada del archivo para verificar y ser transcodificado a otro formato (.avi)
+- Se guadara el video en la misma raiz de la carpeta
 
 Acerca de
 ======
