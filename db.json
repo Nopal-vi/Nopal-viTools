@@ -1,11 +1,27 @@
-{
-  "update": [
-    {
-      "id": 1,
-      "title": "NO HAY MENSAJES POR LOS MOMENTOS"
-    }
-  ],
-  "information": {
-    "infor": ""
-  }
-}
+[
+  {
+    "update": 1,
+    "id": 1,
+    "title": "NOY HAY MENSAJES POR LOS MOMENTOS"
+  },
+  {
+    "db2": 1,
+    "id": 2,
+    "title": ""
+  },
+  {
+    "db3": 1,
+    "id": 3,
+    "title": ""
+  },
+  {
+    "db4": 1,
+    "id": 4,
+    "title": ""
+  },
+  {
+    "db5": 1,
+    "id": 5,
+    "title": ""
+  },
+]
