@@ -9,3 +9,10 @@ Tuna-viTools a sido reemplazada por Nopal-vi Organization, añadiendo nuevas mej
 - Se han añadido otros contenedores a parte de .MP4
 - Se ha añadido JSON (Versión Offline no lo tiene)
 - Se ha convertido en ejecutable .exe
+
+# V0.2
+**QUE HAY DE NUEVO?**
+
+- Implementado orden en el programa
+- Se ha añadido una variable en JSON
+- Version OFFLINE tiene parte de ONLINE en la busqueda de Update (solo cuando quieras ver Update)
