@@ -1,12 +1,13 @@
 {
-  "Update": [
-    {
-      "id": 1,
-      "title": ":D",
-        "about": "Nopal-viTools [Version 0.3]"
+    "update": [
+      {
+        "id": 1,
+        "update": "V0.4",
+        "title": ":D",
+        "about": "Nopal-viTools [Version 0.4]"
+      }
+    ],
+    "profile": {
+        "name": "Nopal-viTools - Nopal-vi Organization"
+      }
     }
-  ],
-  "Nopl-vi": {
-    "name": "Nopal-vi Organization"
-  }
-}
