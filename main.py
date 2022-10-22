@@ -4,7 +4,7 @@ import progress
 import time
 
 os.system('title Nopal-viTools - Nopal-vi Organization')
-information = 'Nopal-viTools [Version 0.4] - Nopal-vi Organization'
+information = 'Nopal-viTools [Version 0.5] - Nopal-vi Organization'
 
 def main_update():
     clear()
@@ -28,7 +28,7 @@ para la conversion de video en (.avi) sea disponible en Tuna-viDS')
     if home == '3':
         print('')
         data.update_json()
-        print('VERSION ACTUAL: Nopal-viTools [Version 0.2]')
+        print('VERSION ACTUAL: Nopal-viTools [Version 0.5]')
         print('')
         print(' 1- Volver menu principal')
         home = input('>>> ')
