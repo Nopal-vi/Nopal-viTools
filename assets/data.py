@@ -30,4 +30,4 @@ def client_version(): # mensaje sobre la version necesaria
         for url in decode_json:
             print(f"%s {url['about']}" % (CONECTION['update']))
     except:
-        print('%s %s' % (CONECTION['message', 'error_conection']))
+        print(CONECTION['message'], CONECTION['error_conection'])
