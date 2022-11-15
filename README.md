@@ -2,7 +2,7 @@
 ![GitHub](https://img.shields.io/github/license/nopal-vi/nopal-vitools?color=r&logo=i) ![GitHub followers](https://img.shields.io/github/followers/nopal-vi?color=r) ![GitHub all releases](https://img.shields.io/github/downloads/nopal-vi/nopal-vitools/total?color=r)
 ## ¿Como se utiliza?
 ### Windows:
-**EXTERNO**: Para utilizar [Nopal-viTools](https://github.com/Nopal-vi/Nopal-viTools) debemos tener descargado el programa FFmpeg y crear una carpeta junto a Nopal-viTools con ella.
+**EXTERNO**: Para utilizar [Nopal-viTools](https://github.com/Nopal-vi/Nopal-viTools) debemos tener descargado el programa [FFmpeg](https://mega.nz/file/b4p01C4b#jXOvdNONX7SJgGLyxRiDEItVAMsglSemp5BR0qr4Kko) y crear una carpeta junto a Nopal-viTools con ella.
 
 **INTERNO**: Descarga [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases) y luego crear una carpeta en tu disco C de tu computadora: (FFmpeg es disponible solo en 64bits)
 
