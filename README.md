@@ -1,33 +1,55 @@
-# Nopal-viTools
-<img src="https://img.shields.io/liberapay/receives/nopal-vi.svg?logo=liberapay"> ![GitHub](https://img.shields.io/github/license/nopal-vi/nopal-vitools?color=r&logo=i) ![GitHub followers](https://img.shields.io/github/followers/nopal-vi?color=r) ![GitHub all releases](https://img.shields.io/github/downloads/nopal-vi/nopal-vitools/total?color=r)
+# Nopal-viTools 🌵
+![GitHub](https://img.shields.io/github/license/nopal-vi/nopal-vitools?color=r&logo=i) ![GitHub followers](https://img.shields.io/github/followers/nopal-vi?color=r) ![GitHub all releases](https://img.shields.io/github/downloads/nopal-vi/nopal-vitools/total?color=r)
+## ¿Como se utiliza?
+### Windows:
+**EXTERNO**: Para utilizar [Nopal-viTools](https://github.com/Nopal-vi/Nopal-viTools) debemos tener descargado el programa FFmpeg y crear una carpeta junto a Nopal-viTools con ella.
 
-**ESTE ES UN NUEVO COMIENZO!**
+**INTERNO**: Descarga [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases) y luego crear una carpeta en tu disco C de tu computadora: (FFmpeg es disponible solo en 64bits)
 
-A primera vista veras algo distinto, como si las cosas hubieran cambiado, no es el mismo del vídeo? en realidad aun lo es. Nopal-vi Organization ha hecho que este proyecto siga evolucionando aun mas y de hecho hay nuevas mejoras:
+> C:\ffmpeg\ffmpeg\bin
 
-- Se han corregido errores
-- Se han reemplazado el lenguaje de programación
-- Se han añadido otros contenedores a parte de .MP4
-- Se ha añadido JSON (Versión Offline no lo tiene)
-- Se ha convertido en ejecutable .exe
-Hay una versión Online por lo que puedes disfrutar la conversión de tus vídeos y ademas te avisara cuando haya una nueva actualización de Nopal-viTools, que esperas? ademas tiene su versión Offline por lo que quita ese beneficio.
+Ahora ve a `Propiedades del Equipo`, `Configuración Avanzada del sistema` y dentro del apartado `Opciones Avanzadas` vamos a la `Variable de enterno`.
 
-Espero que puedas disfrutar aun mas Nopal-viTools una herramienta  para  Tuna-viDS  que te permite convertir video en formato < MP4 Y OTROS CONTENEDORES > a < AVI > codificado en Xvid y audio codificado en MP3 al instante.
+Editado la variable `Patch`, y dentro de ella añadimos nuestra direccion de ffmpeg que ubicamos en nuestro Disco C. Ejemplo:
 
-Con [FFmpeg](https://ffmpeg.org/) incluido nos transcodifica el video de un formato a otro, Tuna-viTools tiene como objetivo ayudar a los nuevos usuarios de Tuna-viDS agregando los comandos de FFmpeg para asi hacer la conversion de un video codificado como Xvid 256 × 192 px o 256 × 144 px, el audio como MP3 estéreo a 32kHz, 96kbps. como formato de video AVI.
+> ...;C:\ffmpeg\ffmpeg\bin
 
-Mas informacion en [Tuna-viDS.](https://www.chishm.com/tuna-vids/index.html)
+Para añadir el valor de la variable que nuestro caso es ffmpeg debemos comenzar primero con `;` y luego agregamos la direccion donde esta ubicada ffmpeg
 
-¿Como usar Nopal-viTools?
-======
+## Tutorial de Nopal-viTools
+Una vez hecho el primer paso, es muy simple de utilizar Nopal-viTools pero antes necesitas saber sus caracteristicas:
 
-- Debe tener FFmpeg y Nopal-viTools en la misma carpeta
-- Se añade el video que sera transcodificado a otro formato (mp4, avi, mov, wmv)
-- Selecciona la resolucion que vas a colocar al video (256x192, 256x144)
-- Selecciona el formato de entrada del archivo para verificar y ser transcodificado a otro formato (.avi)
-- Se guadara el video en la misma raiz de la carpeta
+### Tipo de formato disponible:
+- mp4
+- avi
+- mov
+- mwv
+### Resolucion de los videos de Nopal-vi: (Algunos disponibles)
+- xvids: 256x192
+- xvidsi: 256X144 **Recomendado por los usuarios de Nopal-viTools**
 
-Acerca de
-======
+Para utilizar Nopal-viTools, primero te pedira que selecciones un lenguaje:
 
-Esta herramienta es para ayudar y no viene a quitar el puesto de nadie, los creditos son para FFmpeg y Tuna-viDS.
+> select a language: \
+ES: Spanish \
+EN: English \
+-> _
+
+Por lo cual, tu seleccionaras el que gustes! Entraras a la ventana principal que te dice lo que se trata de ester programa y seleccionaras la resolucion que quieres añadir a tu video (**no reemplazara el video original, solo que creara uno nuevo**).
+
+### Nombre del Archivo
+El nombre del archivo debe ser `nopal_vi` anteriormente era `vid_source` en las versiones anteriores pero debido a que los usuarios se le complicaba guardar muy bien el nombre del archivo introduccido.
+
+### Finalización
+Ya que el ffmpeg ha hecho su trabajo, el archivo sera guardado como `nopal_ouput.avi`, puede visualizar el video previo en su reproductor el que guste para rectificar si no ha habido problema con la conversión.
+
+## Tuna-viDS
+Crea una carpeta en la raiz de la tarjeta de la consola
+> Z:\video\
+
+Donde aqui añadiras todos los videos convertidos de Nopal-viTools, puedes renombrar el nombre del archivo el que gustes o el nombre del archivo original.
+
+# Creditos
+[Tuna-viDS](https://github.com/chishm/tuna-vids) <3 \
+[FFmpeg](https://ffmpeg.org/) \
+[Nopal-viTools](https://github.com/Nopal-vi/Nopal-viTools)
