@@ -51,7 +51,7 @@ for the conversion of video in (.avi) is available in Tuna-viDS'
 select the input format format you are using:
 
 1: MP4 2: AVI 3: MOV 4: WMV'''
-    COMPLETE = 'Filled! thanks for using Nopal-viTools'
+    COMPLETE = 'thanks for using Nopal-viTools'
 
 @dataclass
 class ES:
